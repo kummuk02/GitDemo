@@ -8,11 +8,13 @@ public class AppiumTest {
 	public void Android()
 	{
 		System.out.println("Android");
+		System.out.println("Android");
 	}
 	
 	@Test
 	public void Ios()
 	{
+		System.out.println("ios");
 		System.out.println("ios");
 	}
 
