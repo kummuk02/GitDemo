@@ -15,7 +15,7 @@ public class AppiumTest {
 	public void Ios()
 	{
 		System.out.println("ios");
-		System.out.println("ios");
+		System.out.println("ios is fast");
 	}
 
 }
